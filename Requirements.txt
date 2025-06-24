@@ -1,0 +1,11 @@
+Python Dependencies
+
+- moviepy
+- pydub
+- librosa
+- noisereduce
+- pyAudioAnalysis
+- soundfile
+- scipy
+- numpy
+- requests
